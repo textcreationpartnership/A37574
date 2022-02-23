@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act for the assembling and holding of Parliaments once in three years at the least and for the repeal of an Act, entitled, An Act for the preventing of inconveniences happening by the long intermission of Parliaments.</title>
+            <title>Public General Acts. 1664. 16 Car.II.c.1</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37574</idno>
+            <idno type="STC">Wing E1090A</idno>
+            <idno type="STC">ESTC R224211</idno>
+            <idno type="EEBO-CITATION">99834506</idno>
+            <idno type="PROQUEST">99834506</idno>
+            <idno type="VID">39007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39007)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1810:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act for the assembling and holding of Parliaments once in three years at the least and for the repeal of an Act, entitled, An Act for the preventing of inconveniences happening by the long intermission of Parliaments.</title>
+                  <title>Public General Acts. 1664. 16 Car.II.c.1</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bill and Christopher Barker, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title (p. 3).</note>
+                  <note>Imprint from title page, which reads: Anno regni Caroli II. Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, decimo sexto. At the Parliament begun at Westminster the eighth day of May, anno Dom. 1661. ..</note>
+                  <note>At head of p. 3: Anno XVI. Caroli II. Regis.</note>
+                  <note>Text in black letter.</note>
+                  <note>On A1r, last word of first line of text: made; first word of line below initial: blessed; last word of last full line of text: the.</note>
+                  <note>Signatures: pi¹ A1 B1.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39007:1"/>
+            <!-- PDF PAGE 5 -->
+            <pb facs="tcp:39007:1"/>
+            <!-- PDF PAGE 5 -->
+            <p>Anno Regni CAROLI II. REGIS <hi>Angliae, Scotiae, Franciae</hi> &amp; <hi>Hiberniae,</hi> DECIMO SEXTO.</p>
+            <p>At the <hi>Parliament</hi> begun at <hi>Westminſter</hi> the Eighth day of <hi>May, Anno Dom.</hi> 1661. In the Thirteenth Year of the Reign of our moſt Gra<g ref="char:EOLhyphen"/>cious Soveraign Lord CHARLES, by the Grace of God, of <hi>England, Scotland, France,</hi> and <hi>Ireland</hi> King, Defender of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>And there continued till the 19<hi rend="sup">th</hi> of <hi>May,</hi> in the 14<hi rend="sup">th</hi> year of His Majeſties ſaid Reign: And thence Prorogued to the 18<hi rend="sup">th</hi> of <hi>February</hi> then next following.</p>
+            <p>And there continued to the 27<hi rend="sup">th</hi> of <hi>July,</hi> in the 15<hi rend="sup">th</hi> year of His Ma<g ref="char:EOLhyphen"/>jeſties Reign: And thence Prorogued to the 16th of <hi>March</hi> then next following.</p>
+            <p>And on the 5<hi rend="sup">th</hi> of <hi>April</hi> 1664. in the 16<hi rend="sup">th</hi> year of His Ma<g ref="char:EOLhyphen"/>jeſties Reign, two Bills paſſed the Royal Aſſent.</p>
+            <figure>
+               <head>DIEVET MON DROIT</head>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the KINGS moſt Excellent Majeſty. 1664.</p>
+            <p>CUM PRIVILEGIO.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:39007:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <pb n="3" facs="tcp:39007:2"/>
+            <!-- PDF PAGE 6 -->
+            <head>Anno XVI. Caroli II. Regis.</head>
+            <argument>
+               <p>An Act for the Aſſembling and Hold<g ref="char:EOLhyphen"/>ing of Parliaments once in Three years at the leaſt; And for the Re<g ref="char:EOLhyphen"/>peal of an Act, Entituled, An Act for the preventing of Inconveniences happening by the long Intermiſſion of Parliaments.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Act made in the Parliament be<g ref="char:EOLhyphen"/>gun at <hi>Weſtminſter</hi> the Third day of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> in the Sixteenth year of the Reign of our late Soveraign Lord King <hi>Charles</hi> of bleſſed memory, Entituled, <hi>An Act for the preventing of Inconveniences happening by the
+<pb n="4" facs="tcp:39007:3"/>
+                  <!-- PDF PAGE 7 -->
+long Intermiſsion of Parliaments,</hi> is in dero<g ref="char:EOLhyphen"/>gation of His Majeſties juſt Rights, and Prerogative inherent to the Imperial Crown of this Realm, for the Calling and Aſſembling of Parliaments; And may be an occaſion of manifold miſchiefs and inconveniences, and much endanger the Peace and Safety of His Maje<g ref="char:EOLhyphen"/>ſty, and all His Leige people of this Realm.</p>
+            <p>Be it therefore Enacted by the Kings moſt Excellent Majeſty, by and with the Advice and Conſent of the Lords Spiri<g ref="char:EOLhyphen"/>tual and Temporal, and the Commons in this preſent Parliament Aſſembled, and by the Authority of the ſame, That the ſaid Act, Entituled, <hi>An Act for the preventing of Inconveniences happening by the long Intermiſsion of Parliaments,</hi> And all and every the Articles, Clauſes and Things therein contained, is, ſhall be, and are hereby wholly Repealed, An<g ref="char:EOLhyphen"/>nulled, and utterly made Void, And are hereby declared to be Null and Void to all intents and purpoſes whatſoever, as if the ſaid Act had never been had, or made; Any thing in the ſaid Act contain<g ref="char:EOLhyphen"/>ed to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>And becauſe by the Ancient Laws and Statutes of this Realm, made in the Reign of King <hi>Edward</hi> the third, Par<g ref="char:EOLhyphen"/>liaments are to be held very often, Your Majeſties humble and loyal Subjects
+<pb n="5" facs="tcp:39007:3"/>
+               <!-- PDF PAGE 7 -->
+the Lords Spiritual and Temporal, and the Commons in this preſent Parliament Aſſembled, moſt humbly do beſeech Your moſt Excellent Majeſty, That it may be Declared and Enacted, And be it Decla<g ref="char:EOLhyphen"/>red and Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That hereafter the ſitting and hold<g ref="char:EOLhyphen"/>ing of Parliaments ſhall not be intermit<g ref="char:EOLhyphen"/>ted or diſcontinued above three years at the moſt; but that within three years from and after the determination of this preſent Parliament, &amp; ſo from time to time with<g ref="char:EOLhyphen"/>in three years after the determination of any other Parliament or Parliaments, or if there be occaſion, more often, Your Majeſty, Your Heirs and Succeſſors do iſſue out Your Writs for calling, aſſem<g ref="char:EOLhyphen"/>bling and holding of another Parlia<g ref="char:EOLhyphen"/>ment, to the end there may be a frequent calling, aſſembling, and holding of Par<g ref="char:EOLhyphen"/>liaments once in Three years at the leaſt.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
